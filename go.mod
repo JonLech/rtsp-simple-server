@@ -51,4 +51,6 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
 
+replace github.com/aler9/gortsplib => github.com/JonLech/gortsplib v0.0.0-20221105221210-c1462fca6246
+
 replace github.com/orcaman/writerseeker => github.com/aler9/writerseeker v0.0.0-20220601075008-6f0e685b9c82
